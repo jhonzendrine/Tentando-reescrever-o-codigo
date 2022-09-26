@@ -368,10 +368,6 @@ public class Map
             {
                 robo.energia = robo.energia + tr.valor;
             }
-            if(matrix[robo.x-1,robo.y] is Water wt)
-            {
-                robo.energia = robo.energia + wt.valor;
-            }
 
             void Situ(bool h)
             {
@@ -415,10 +411,7 @@ public class Map
             {
                 robo.energia = robo.energia + tr.valor;
             }
-            if(matrix[robo.x+1,robo.y] is Water wt)
-            {
-                robo.energia = robo.energia + wt.valor;
-            }
+            
 
             void Situ(bool h)
             {
@@ -462,10 +455,7 @@ public class Map
             {
                 robo.energia = robo.energia + tr.valor;
             }
-            if(matrix[robo.x,robo.y-1] is Water wt)
-            {
-                robo.energia = robo.energia + wt.valor;
-            }
+            
 
                 void Situ(bool h)
             {
@@ -508,10 +498,7 @@ public class Map
             {
                 robo.energia = robo.energia + tr.valor;
             }
-            if(matrix[robo.x,robo.y+1] is Water wt)
-            {
-                robo.energia = robo.energia + wt.valor;
-            }
+           
 
                 void Situ(bool h)
             {
