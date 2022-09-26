@@ -1,0 +1,15 @@
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\Reescrevendo.csproj.AssemblyReference.cache
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\Reescrevendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\Reescrevendo.AssemblyInfoInputs.cache
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\Reescrevendo.AssemblyInfo.cs
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\Reescrevendo.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\bin\Debug\net6.0\Reescrevendo.exe
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\bin\Debug\net6.0\Reescrevendo.deps.json
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\bin\Debug\net6.0\Reescrevendo.runtimeconfig.json
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\bin\Debug\net6.0\Reescrevendo.dll
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\bin\Debug\net6.0\Reescrevendo.pdb
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\Reescrevendo.dll
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\refint\Reescrevendo.dll
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\Reescrevendo.pdb
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\Reescrevendo.genruntimeconfig.cache
+C:\Users\jhona\Desktop\Curso UNICAMP\Tentando reescrever o codigo\Reescrevendo\obj\Debug\net6.0\ref\Reescrevendo.dll
